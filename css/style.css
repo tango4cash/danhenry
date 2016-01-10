@@ -1,0 +1,61 @@
+html, body. div{
+    margin: 0 !important;
+    padding: 0 !important;
+    width: 100%;
+}
+  body {font-size:1.7em;line-height:1.5em;background-color: #e9f0f5;}
+  p, img{margin-top:20px;margin-bottom:20px;}
+  .max{max-width:1000px;}
+  .footer a{color:#fff;font-size:.6em;font-weight:bold;padding:5px;}
+  .footer a:hover{text-decoration:none;}
+  .footer ul{vertical-align: middle; margin-top:100px;}
+        .footer {background-color:#282828;background-image:url('/img/widefooter.png');
+    background-repeat: no-repeat;margin-bottom:0px;min-height:200px;}
+    
+    
+    
+    
+  .topmenu a{color:#fff;font-size:.7em;font-weight:bold;}
+ul.nav a{ color: #fff !important; }
+ul.nav a:hover { text-decoration:underline; color: #fff !important; }
+    .recent{line-height:1.2em;}
+    .socialtop {width:0px;margin-left:10px; margin-right:10px;}
+.leadbox, leadbox a{background-color:#26a4ed;padding:10px;color:#fff;font-weight:bold;text-transform:uppercase;display:block;text-decoration:none;}
+.leadbox:hover{background:#ff6d0c;padding:10px;color:#fff}
+    .white{color:#fff}
+    .wborder {border:5px solid white;}
+    .smallimg {max-width:300px;}
+    .bigimg {max-width:400px;}
+    .border {border:2px solid black;}
+    
+    
+    @media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    .navbar .navbar-collapse {
+        text-align: center;
+    }
+}
+    
+    .trans {max-width:100px;}
+    .navcenter {margin-top:20px;}
+    .yellow{color:#ffff00;}
+    .hr{border-top:1px solid #cccdce;}
+    
+.google { font-family: 'Indie Flower', cursive; }
+    .google2 { font-family: 'PT Sans Caption', sans-serif;}
+    .big {font-size:1.2em;line-height:1.2em}
+    h3{color:#b01936;font-weight:bold;}
+    
+    .vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+    .imgflush {max-width:350px;margin-bottom:0px;}
+    .btn-yellow {background:#e7fb06;border:3px dashed #fbb306}

@@ -1,0 +1,101 @@
+---
+layout: default
+
+---
+
+
+<div class="container max">
+      <div class="row">
+      
+      <a href="https://danhenry.leadpages.co/leadbox/146ccea73f72a2%3A175daf6dd346dc/5718998062727168/" target="_blank" class="leadbox text-center">Subscribe for a Blast of Nerdiness in Your Face!<br>
+          <i class="fa fa-thumbs-up fa-2x"></i> </a>
+    </div>
+   <br>
+    
+
+<div class="a2a_kit a2a_kit_size_32 a2a_floating_style a2a_vertical_style hidden-sm hidden-xs" style="left:0px; top:150px;">
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_twitter"></a>
+    <a class="a2a_button_google_plus"></a>
+    <a class="a2a_button_pinterest"></a>
+    <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div>
+    
+    
+  <div class="row">
+  <div class="col-sm-12 col-md-8 col-lg-8">
+      <img src="{{ page.image }}" class="img-responsive center-block">
+    <h1 class="" itemprop="name headline">{{ page.title }}</h1>
+     <p class="pull-left">Posted on <time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+  
+      
+      
+    <!-- AddToAny BEGIN -->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style pull-right">
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_twitter a2a_counter"></a>
+<a class="a2a_button_pinterest a2a_counter"></a>
+<a class="a2a_button_google_plus a2a_counter"></a>
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div>
+<div class="clearfix"></div>
+<hr>
+
+      {% include adsense.html %}
+  {{ content }}
+
+<span class="text-uppercase"><strong>Share this post: </strong></span>
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<a class="a2a_button_facebook a2a_counter"></a>
+<a class="a2a_button_twitter a2a_counter"></a>
+<a class="a2a_button_pinterest a2a_counter"></a>
+<a class="a2a_button_google_plus a2a_counter"></a>
+<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+</div>
+<div class="clearfix"></div>
+
+
+      <hr>
+   
+    {% include opt.html %}
+   
+      
+      <hr>
+<span class="text-uppercase"><strong>Leave a Comment: </strong></span>
+    
+      <div class="fb-comments" data-href="http://flicknerd.com{{ page.url}}" data-width="500" data-numposts="10"></div>
+</div>
+
+
+  
+  
+<div class="col-sm-12 col-md-4 col-lg-4">
+
+<div class="hidden-xs hidden-sm" id="nomobile">
+
+ <p class="lead text-info"><strong>Follow For More Nerdiness!</strong></p>
+
+  <div class="a2a_kit a2a_kit_size_50 a2a_default_style a2a_follow center-block">
+    <a class="a2a_button_facebook" data-a2a-follow="FlickNerd-912878015464408"></a>
+    <a class="a2a_button_twitter" data-a2a-follow="flick_nerd"></a>
+    <a class="a2a_button_youtube_channel hidden" data-a2a-follow="UCF0pVplsI8R5kcAqgtoRqoA"></a>
+  
+  </div>
+ <hr>
+        
+ </div>
+    
+    <h4>Recent Posts</h4>
+    
+    {% for post in site.posts %}
+    <p class="recent"><a href="{{ post.url | prepend: site.baseurl }}"><small>{{ post.title }}</small></a></p>
+    <hr style="margin:5px;">
+    
+    {% endfor %}
+    <hr>
+   
+ </div>
+  </div>
+</div>
+
+
