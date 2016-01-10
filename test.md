@@ -8,10 +8,10 @@ permalink: /test/
 
 <div class="container-fluid" style="background:#b01936;">
 
-<div class="container max white" style="margin-top:0px;"> 
-    
-<div class="row"> 
-           
+<div class="container max white" style="margin-top:0px;">
+
+<div class="row">
+
 <div class="col-sm-8">
 <br>
 <h2 class="text-center google2 text-uppercas0e">" I'm the kind of guy who builds companies in Batman underwear "</h2>
@@ -20,15 +20,15 @@ permalink: /test/
  Get My Free Mini Course: How to Create 5 Minute Freebies that Attract Subscribers, Leads & Clients
     </p>
 <a href="https://danhenry.leadpages.co/leadbox/14684b773f72a2%3A175daf6dd346dc/5663998322147328/" class="btn btn-lg center-block btn-yellow"><strong>Get Started</strong></a>
-    
 
-    
+
+
 </div>
-           
+
 <div class="col-sm-4">
 <img src="/img/dan.png" class="img-responsive" style="max-width:300px;margin-bottom:0px;">
 </div>
-        
+
 </div>
 </div>
 </div>
@@ -62,53 +62,40 @@ permalink: /test/
 
 
 <div class="container-fluid" style="background:#272727">
-<div class="container max"> 
-   <!--- Featured in ---> 
+<div class="container max">
+<!--- Featured in --->
 <div class="row">
 <h3 class="center-block google2 text-uppercase text-center white">You may have seen me here</h3>
-<div class="col-sm-4 text-center"><img src="/img/huff2.png" class="img-responsive center-block trans"></div>
-<div class="col-sm-4 text-center"><img src="/img/tampatime.png" class="img-responsive center-block trans"></div>
-<div class="col-sm-4 text-center"><img src="/img/tribune.png" class="img-responsive center-block trans"></div>
+<div class="col-sm-4 text-center"><img src="/img/huff2.png" class="img-responsive center-block trans">
+</div>
+<div class="col-sm-4 text-center"><img src="/img/tampatime.png" class="img-responsive center-block trans">
+</div>
+<div class="col-sm-4 text-center"><img src="/img/tribune.png" class="img-responsive center-block trans">
+</div>
  <!--- END Featured in --->
-</div>      
 </div>
 </div>
-
+</div>
 
 
 <div class="container-fluid">
-   <div class="container max"> 
-
-
-       
-
+<div class="container max">
 <div class="row">
 <div class="col-sm-6">
 <img src="/img/comic.png" class="img-responsive center-block" style="max-width:300px;margin-bottom:0px;">
 </div>
-<div class="col-sm-6">        
-    <p class="white">In 2012 blah blah</p>
+<div class="col-sm-6">
+<p class="white">In 2012 blah blah</p>
 </div>
 </div>
-       
+
 <div class="row">
 <div class="col-sm-6">
 <img src="/img/huff.png" class="img-responsive center-block" style="max-width:300px;margin-bottom:0px;">
 </div>
-<div class="col-sm-6">        
-    <p class="white">In 2012 I blah blah</p>
+<div class="col-sm-6">
+<p class="white">In 2012 I blah blah</p>
 </div>
 </div>
-    
-      
-      
-
-
-
-  
-
 </div>
-
 </div>
-
-
